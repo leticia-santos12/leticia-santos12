@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @leticia-santos12
+- 👋 Hi, I’m @leticia-santos12, estou cursando o último semestre de Análise e Desenvolvimento de Sistemas
 - 👀 I’m interested in ... Programação Web
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ...JavaScript, Java, MySQL, HTML, CSS
+- 💞️ I’m looking to collaborate on  ... 
 - 📫 How to reach me ... 11  95430-9559 ou leticiasantos.1999@hotmail.com
 
 <!---
