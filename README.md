@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @leticia-santos12, estou cursando o último semestre de Análise e Desenvolvimento de Sistemas
+- 👋 Hi, I’m @leticia-santos12,Sou formada Análise e Desenvolvimento de Sistemas
 - 👀 I’m interested in ... Programação Web
 - 🌱 I’m currently learning ...JavaScript, Java, MySQL, HTML, CSS
 - 💞️ I’m looking to collaborate on  ... 
